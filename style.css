@@ -23,9 +23,7 @@ video {
 }
 .center {
   position: absolute;
-  top: 37.5%;
+  top: 3%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
- <img src="media/fordphotowikicommons.jpg" alt="Ford"style="float:right;width:42px;height:42px;">
