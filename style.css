@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica, Arial, Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 auto;
+  padding: 0.5em;
+  max-width: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+  color: black;
+  background-color: black;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+video {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  position: top; 
+}
+.center {
+  position: absolute;
+  top: 37.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ <img src="media/fordphotowikicommons.jpg" alt="Ford"style="float:right;width:42px;height:42px;">
