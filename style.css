@@ -23,7 +23,7 @@ video {
 }
 .center {
   position: absolute;
-  top: 3%;
+  top: 37.5%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
